@@ -1,0 +1,22 @@
+[
+  {
+    "geocode": [-31.392948451346864, -64.18754534214315],
+    "popUp": {
+      "provincia": "Córdoba",
+      "capital": "Córdoba",
+      "poblacion": "3.506.000 (2014)"
+    }
+  },
+  {
+    "geocode": [-36.62042067890423, -64.29574248599046],
+    "popUp": {
+      "provincia": "La Pampa",
+      "capital": "Santa Rosa",
+      "poblacion": ""
+    }
+  },
+  {
+    "geocode": [-31.534608814487395, -68.54681579307957],
+    "popUp": { "provincia": "San Juan", "capital": "San Juan", "poblacion": "" }
+  }
+]
